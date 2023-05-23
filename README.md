@@ -1,4 +1,10 @@
+<style>
+  body{
+  backgorundcolor:black;
+  color:#fff;
+ </style>
 
+<body>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -28,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshsd&" alt="Sandeshsd" /></p>
 
+</body>
